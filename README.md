@@ -19,7 +19,7 @@ I'm a passionate **Front-End Developer** from Nigeria, currently building **Food
 - Build clean, user-friendly websites
 
 ### 📫 Let's Connect:
-- [Twitter](https://twitter.com/dev_ebuka)  
-- [LinkedIn](https://linkedin.com/in/_LINKEDIN) *(coming soon)*
+📧 Email: okoloebuka756@gmail.com]
+🐦 Twitter (X): @dev_ebuka
 
 > 💡 “Every big developer once started with `Hello World`.”
