@@ -20,6 +20,6 @@ I'm a passionate **Front-End Developer** from Nigeria, currently building **Food
 
 ### 📫 Let's Connect:
 📧 Email: okoloebuka756@gmail.com]
-🐦 Twitter (X): [@ebvka](https://twitter.com/dev_ebvka)
+🐦 Twitter (X): [@ebv_ka](https://twitter.com/ebv_ka)
 
 > 💡 “Every big developer once started with `Hello World`.”
